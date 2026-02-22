@@ -1,6 +1,9 @@
 ## To check if a number is a pallindrome or not
 
 
+## TC - O(logN)
+## SC - O(1) 
+
 def pal_check(n):
   org=n
   s=0
